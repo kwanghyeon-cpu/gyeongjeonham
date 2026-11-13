@@ -1,0 +1,167 @@
+{
+  "id": "suttanipata",
+  "order": 56,
+  "group": "sutra",
+  "version": "0.1.0-draft",
+  "title": {
+    "hanja": "經集",
+    "eumdok": "경집",
+    "ko": "숫타니파타",
+    "short": "숫타니파타"
+  },
+  "source": {
+    "text": "빨리 삼장 소부(Khuddaka Nikāya) 『숫따니빠따(Suttanipāta)』 — 「무소의 뿔 경(Khaggavisāṇa Sutta, Sn 1.3)」에서 6게송, 「위없는 축복의 경(Maṅgala Sutta, Sn 2.4)」 12게송 전문",
+    "translator": "원문은 가장 오래된 불교 경전 가운데 하나로 꼽히는 빨리어 게송집",
+    "license": "원문: 퍼블릭 도메인 (고대 문헌)",
+    "translationLicense": "번역·음역·해설: 경전함이 새로 옮김 (AI 초안을 바탕으로 감수를 거쳐 다듬는 중)",
+    "note": "법구경처럼 한문이 아니라 빨리어 원문을 싣고, 음독 자리에 빨리어 한글 음역을 둔다. 게송 번호는 빨리본(Sn) 기준."
+  },
+  "reviewChecklist": [
+    { "section": "sn01", "issue": "빨리어 원문을 PTS본 또는 VRI(제6차 결집)본과 한 글자씩 대조 (기억에 의존해 입력함)", "priority": 1 },
+    { "section": "sn04", "issue": "Sn 47 게송의 번호와 원문 확인", "priority": 2 },
+    { "section": "sn06", "issue": "빨리어 한글 음역 표기를 법구경과 같은 규칙으로 통일했는지 확인", "priority": 3 }
+  ],
+  "sections": [
+    {
+      "id": "sn01",
+      "heading": "무소의 뿔 경 · Sn 35",
+      "hanja": "Sabbesu bhūtesu nidhāya daṇḍaṃ,\naviheṭhayaṃ aññatarampi tesaṃ;\nna puttamiccheyya kuto sahāyaṃ,\neko care khaggavisāṇakappo.",
+      "eumdok": "삽베수 부떼수 니다야 단당\n아위헤타양 안냐따람삐 떼상\n나 뿟따믹체이야 꾸또 사하양\n에꼬 짜레 칵가위사나깝뽀",
+      "plain": "모든 생명에게 몽둥이를 내려놓고, 그 가운데 어느 하나도 해치지 말며, 자식조차 바라지 말아야 하거늘 하물며 벗이랴. 무소의 뿔처럼 혼자서 가라.",
+      "commentary": "「무소의 뿔 경」의 첫 게송이다. 모든 게송이 '무소의 뿔처럼 혼자서 가라'로 끝난다. 인도 코뿔소는 뿔이 하나뿐이라, 무리에 기대지 않고 홀로 꿋꿋이 걷는 수행자를 비유한다. 사람을 멀리하라는 말이 아니라, 집착과 의존에서 벗어나 스스로 서라는 뜻이다.",
+      "terms": ["khaggavisana"]
+    },
+    {
+      "id": "sn02",
+      "heading": "무소의 뿔 경 · Sn 36",
+      "hanja": "Saṃsaggajātassa bhavanti snehā,\nsnehanvayaṃ dukkhamidaṃ pahoti;\nādīnavaṃ snehajaṃ pekkhamāno,\neko care khaggavisāṇakappo.",
+      "eumdok": "상삭가자땃사 바완띠 스네하\n스네한와양 둑카미당 빠호띠\n아디나왕 스네하장 뻭카마노\n에꼬 짜레 칵가위사나깝뽀",
+      "plain": "사귐이 생기면 애착이 생기고, 애착을 따라 이 괴로움이 일어난다. 애착에서 생기는 재난을 잘 살펴, 무소의 뿔처럼 혼자서 가라.",
+      "commentary": "괴로움이 어디서 오는지를 짚는다. 사람을 만나는 것 자체가 나쁜 것이 아니라, 그 만남에 매달리는 애착이 괴로움을 낳는다.",
+      "terms": ["khaggavisana"]
+    },
+    {
+      "id": "sn03",
+      "heading": "무소의 뿔 경 · Sn 45–46",
+      "hanja": "Sace labhetha nipakaṃ sahāyaṃ,\nsaddhiṃ caraṃ sādhuvihāri dhīraṃ;\nabhibhuyya sabbāni parissayāni,\ncareyya tenattamano satīmā.\n\nNo ce labhetha nipakaṃ sahāyaṃ,\nsaddhiṃ caraṃ sādhuvihāri dhīraṃ;\nrājāva raṭṭhaṃ vijitaṃ pahāya,\neko care mātaṅgaraññeva nāgo.",
+      "eumdok": "사쩨 라베타 니빠깡 사하양\n삿딩 짜랑 사두위하리 디랑\n아비부이야 삽바니 빠릿사야니\n짜레이야 떼낫따마노 사띠마\n\n노 쩨 라베타 니빠깡 사하양\n삿딩 짜랑 사두위하리 디랑\n라자와 랏탕 위지땅 빠하야\n에꼬 짜레 마땅가란녜와 나고",
+      "plain": "만약 슬기롭고, 함께 걸을 만하며, 바르게 살고 지혜로운 벗을 얻는다면, 모든 위험을 이겨 내고 기쁜 마음으로 마음을 챙기며 그와 함께 가라. 그러나 슬기롭고 함께 걸을 만하며 바르게 살고 지혜로운 벗을 얻지 못한다면, 정복한 나라를 버리고 떠나는 왕처럼, 숲속을 홀로 가는 코끼리처럼 혼자서 가라.",
+      "commentary": "이 두 게송은 '혼자 가라'는 말이 무엇을 뜻하는지 분명히 한다. 좋은 벗을 만나면 함께 가라고 한다. 다만 그런 벗이 없을 때 나쁜 무리에 휩쓸리느니 차라리 혼자 가라는 것이다.",
+      "terms": []
+    },
+    {
+      "id": "sn04",
+      "heading": "무소의 뿔 경 · Sn 47",
+      "hanja": "Addhā pasaṃsāma sahāyasampadaṃ,\nseṭṭhā samā sevitabbā sahāyā;\nete aladdhā anavajjabhojī,\neko care khaggavisāṇakappo.",
+      "eumdok": "앗다 빠상사마 사하야삼빠당\n셋타 사마 세위땁바 사하야\n에떼 알랏다 아나왓자보지\n에꼬 짜레 칵가위사나깝뽀",
+      "plain": "우리는 좋은 벗을 얻는 복을 참으로 찬탄한다. 나보다 낫거나 나와 같은 벗은 가까이해야 한다. 그런 벗을 얻지 못하면, 허물없는 음식으로 살아가며 무소의 뿔처럼 혼자서 가라.",
+      "commentary": "부처님은 좋은 벗(선지식)이 수행의 전부라고까지 하셨다. 홀로 가라는 가르침과 좋은 벗을 찬탄하는 가르침은 서로 어긋나지 않는다.",
+      "terms": ["khaggavisana"]
+    },
+    {
+      "id": "sn05",
+      "heading": "무소의 뿔 경 · Sn 71",
+      "hanja": "Sīhova saddesu asantasanto,\nvātova jālamhi asajjamāno;\npadumaṃva toyena alippamāno,\neko care khaggavisāṇakappo.",
+      "eumdok": "시호와 삿데수 아산따산또\n와또와 잘람히 아삿자마노\n빠두망와 또예나 알립빠마노\n에꼬 짜레 칵가위사나깝뽀",
+      "plain": "소리에 놀라지 않는 사자처럼, 그물에 걸리지 않는 바람처럼, 물에 젖지 않는 연꽃처럼, 무소의 뿔처럼 혼자서 가라.",
+      "commentary": "숫타니파타에서 가장 널리 알려진 게송이다. 세상의 소리에 흔들리지 않고(사자), 어디에도 걸리지 않으며(바람), 세상 속에 있으되 물들지 않는(연꽃) 수행자의 모습을 세 가지 비유로 그린다.",
+      "terms": ["khaggavisana"]
+    },
+    {
+      "id": "sn06",
+      "heading": "위없는 축복의 경 · 물음",
+      "hanja": "Bahū devā manussā ca,\nmaṅgalāni acintayuṃ;\nākaṅkhamānā sotthānaṃ,\nbrūhi maṅgalamuttamaṃ.",
+      "eumdok": "바후 데와 마눗사 짜\n망갈라니 아찐따융\n아깡카마나 솟타낭\n브루히 망갈라뭇따망",
+      "plain": "많은 신들과 사람들이 행복을 바라며 무엇이 축복인지 생각해 왔습니다. 무엇이 위없는 축복인지 말씀해 주십시오.",
+      "commentary": "「위없는 축복의 경(망갈라 경)」은 한밤에 찾아온 한 천신이 부처님께 묻는 것으로 시작한다. 사람들은 좋은 날, 좋은 징조 같은 것을 축복이라 여겼지만, 부처님은 삶의 태도에서 참된 축복을 찾으신다. 남방 불교에서 가장 많이 독송하는 경 가운데 하나다.",
+      "terms": ["mangala"],
+      "dailyVerse": false
+    },
+    {
+      "id": "sn07",
+      "heading": "위없는 축복의 경 · 좋은 사람과 좋은 곳",
+      "hanja": "Asevanā ca bālānaṃ,\npaṇḍitānañca sevanā;\npūjā ca pūjanīyānaṃ,\netaṃ maṅgalamuttamaṃ.\n\nPatirūpadesavāso ca,\npubbe ca katapuññatā;\nattasammāpaṇidhi ca,\netaṃ maṅgalamuttamaṃ.",
+      "eumdok": "아세와나 짜 발라낭\n빤디따난짜 세와나\n뿌자 짜 뿌자니야낭\n에땅 망갈라뭇따망\n\n빠띠루빠데사와소 짜\n뿝베 짜 까따뿐냐따\n앗따삼마빠니디 짜\n에땅 망갈라뭇따망",
+      "plain": "어리석은 이를 가까이하지 않고, 지혜로운 이를 가까이하며, 공경할 분을 공경하는 것, 이것이 위없는 축복이다. 알맞은 곳에 살고, 일찍이 공덕을 지었으며, 스스로 바른 뜻을 세우는 것, 이것이 위없는 축복이다.",
+      "commentary": "축복의 첫걸음은 누구와 함께하느냐에서 시작된다. 좋은 벗과 좋은 환경, 그리고 스스로 세운 바른 뜻이 삶의 바탕이 된다.",
+      "terms": ["mangala"]
+    },
+    {
+      "id": "sn08",
+      "heading": "위없는 축복의 경 · 배움과 가족",
+      "hanja": "Bāhusaccañca sippañca,\nvinayo ca susikkhito;\nsubhāsitā ca yā vācā,\netaṃ maṅgalamuttamaṃ.\n\nMātāpitu upaṭṭhānaṃ,\nputtadārassa saṅgaho;\nanākulā ca kammantā,\netaṃ maṅgalamuttamaṃ.",
+      "eumdok": "바후삿짠짜 십빤짜\n위나요 짜 수식키또\n수바시따 짜 야 와짜\n에땅 망갈라뭇따망\n\n마따삐뚜 우빳타낭\n뿟따다랏사 상가호\n아나꿀라 짜 깜만따\n에땅 망갈라뭇따망",
+      "plain": "많이 배우고, 기술을 익히며, 규율을 잘 익히고, 좋은 말을 하는 것, 이것이 위없는 축복이다. 어머니와 아버지를 모시고, 아내와 자식을 돌보며, 하는 일이 어지럽지 않은 것, 이것이 위없는 축복이다.",
+      "commentary": "배움과 기술, 바른 말, 그리고 부모를 모시고 가족을 돌보는 일상이 모두 축복이라 한다. 수행은 일상을 떠나 있는 것이 아니다.",
+      "terms": []
+    },
+    {
+      "id": "sn09",
+      "heading": "위없는 축복의 경 · 베풂과 절제",
+      "hanja": "Dānañca dhammacariyā ca,\nñātakānañca saṅgaho;\nanavajjāni kammāni,\netaṃ maṅgalamuttamaṃ.\n\nĀratī viratī pāpā,\nmajjapānā ca saññamo;\nappamādo ca dhammesu,\netaṃ maṅgalamuttamaṃ.",
+      "eumdok": "다난짜 담마짜리야 짜\n냐따까난짜 상가호\n아나왓자니 깜마니\n에땅 망갈라뭇따망\n\n아라띠 위라띠 빠빠\n맛자빠나 짜 산냐모\n압빠마도 짜 담메수\n에땅 망갈라뭇따망",
+      "plain": "베풀고, 바르게 살며, 친척을 돌보고, 허물없는 일을 하는 것, 이것이 위없는 축복이다. 악을 멀리하고 그치며, 술 마시기를 삼가고, 바른 일에 게으르지 않은 것, 이것이 위없는 축복이다.",
+      "commentary": "나누고 돌보는 것과 함께, 해로운 것을 멀리하는 절제도 축복이다. '게으르지 않음(불방일)'은 부처님이 마지막으로 남기신 당부이기도 하다.",
+      "terms": []
+    },
+    {
+      "id": "sn10",
+      "heading": "위없는 축복의 경 · 겸손과 인내",
+      "hanja": "Gāravo ca nivāto ca,\nsantuṭṭhi ca kataññutā;\nkālena dhammassavanaṃ,\netaṃ maṅgalamuttamaṃ.\n\nKhantī ca sovacassatā,\nsamaṇānañca dassanaṃ;\nkālena dhammasākacchā,\netaṃ maṅgalamuttamaṃ.",
+      "eumdok": "가라오 짜 니와또 짜\n산뚯티 짜 까딴뉴따\n깔레나 담맛사와낭\n에땅 망갈라뭇따망\n\n칸띠 짜 소와짯사따\n사마나난짜 닷사낭\n깔레나 담마사깟차\n에땅 망갈라뭇따망",
+      "plain": "공경하고, 겸손하며, 만족할 줄 알고, 은혜를 알며, 때맞추어 가르침을 듣는 것, 이것이 위없는 축복이다. 참을성 있고, 충고를 잘 받아들이며, 수행자를 만나고, 때맞추어 가르침을 함께 이야기하는 것, 이것이 위없는 축복이다.",
+      "commentary": "자족(만족할 줄 앎)과 감사(은혜를 앎), 인내와 열린 귀. 마음이 넉넉하고 부드러운 사람이 복된 사람이다.",
+      "terms": []
+    },
+    {
+      "id": "sn11",
+      "heading": "위없는 축복의 경 · 흔들리지 않는 마음",
+      "hanja": "Tapo ca brahmacariyā ca,\nariyasaccāna dassanaṃ;\nnibbānasacchikiriyā ca,\netaṃ maṅgalamuttamaṃ.\n\nPhuṭṭhassa lokadhammehi,\ncittaṃ yassa na kampati;\nasokaṃ virajaṃ khemaṃ,\netaṃ maṅgalamuttamaṃ.",
+      "eumdok": "따뽀 짜 브라흐마짜리야 짜\n아리야삿짜나 닷사낭\n닙바나삿치끼리야 짜\n에땅 망갈라뭇따망\n\n풋탓사 로까담메히\n찟땅 얏사 나 깜빠띠\n아소깡 위라장 케망\n에땅 망갈라뭇따망",
+      "plain": "애써 닦고, 맑은 삶을 살며, 거룩한 진리를 보고, 열반을 실현하는 것, 이것이 위없는 축복이다. 세상의 일에 부딪혀도 마음이 흔들리지 않고, 근심 없고, 때 없고, 평안한 것, 이것이 위없는 축복이다.",
+      "commentary": "축복은 마침내 열반과 흔들리지 않는 마음에 이른다. '세상의 일(세간팔법)'은 이익과 손해, 명예와 불명예, 칭찬과 비난, 즐거움과 괴로움이다. 이 여덟 바람에도 흔들리지 않는 마음이 가장 큰 축복이다.",
+      "terms": ["four-noble-truths", "nibbana", "eight-worldly"]
+    },
+    {
+      "id": "sn12",
+      "heading": "위없는 축복의 경 · 맺음",
+      "hanja": "Etādisāni katvāna,\nsabbatthamaparājitā;\nsabbattha sotthiṃ gacchanti,\ntaṃ tesaṃ maṅgalamuttamaṃ.",
+      "eumdok": "에따디사니 까뜨와나\n삽밧타마빠라지따\n삽밧타 솟팅 갓찬띠\n땅 떼상 망갈라뭇따망",
+      "plain": "이와 같은 일을 하는 이들은 어디서나 지지 않고, 어디서나 평안으로 나아가니, 이것이 그들의 위없는 축복이다.",
+      "commentary": "서른여덟 가지 축복을 다 들고 나서 맺는 게송이다. 축복은 밖에서 오는 행운이 아니라, 이렇게 살아가는 사람 안에서 자라난다.",
+      "terms": ["mangala"]
+    }
+  ],
+  "glossary": {
+    "khaggavisana": {
+      "term": "무소의 뿔",
+      "hanja": "犀角",
+      "sanskrit": "khaggavisāṇa (빨리)",
+      "definition": "뿔이 하나인 인도 코뿔소의 뿔. 무리에 기대지 않고 홀로 꿋꿋이 수행하는 이를 비유한다. 코뿔소 자체를 가리킨다는 해석도 있다."
+    },
+    "mangala": {
+      "term": "망갈라 (축복)",
+      "hanja": "吉祥",
+      "sanskrit": "maṅgala (빨리)",
+      "definition": "길한 것, 상서로운 것, 축복. 부처님은 징조나 의식이 아니라 바른 삶 그 자체를 참된 축복이라 하셨다."
+    },
+    "four-noble-truths": {
+      "term": "거룩한 진리 (사성제)",
+      "hanja": "四聖諦",
+      "sanskrit": "ariyasacca (빨리), ārya-satya",
+      "definition": "괴로움(고), 괴로움의 원인(집), 괴로움의 소멸(멸), 소멸에 이르는 길(도)의 네 가지 진리."
+    },
+    "nibbana": {
+      "term": "열반",
+      "hanja": "涅槃",
+      "sanskrit": "nibbāna (산 nirvāṇa)",
+      "definition": "탐욕·성냄·어리석음의 불이 꺼진 상태. 괴로움이 완전히 사라진 평안."
+    },
+    "eight-worldly": {
+      "term": "세간팔법",
+      "hanja": "世間八法",
+      "sanskrit": "aṭṭha lokadhammā (빨리)",
+      "definition": "사람의 마음을 흔드는 세상의 여덟 가지 일. 이익과 손해, 명예와 불명예, 칭찬과 비난, 즐거움과 괴로움. 팔풍(八風)이라고도 한다."
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "dhammapada",
+  "order": 55,
+  "group": "sutra",
+  "version": "0.1.0-draft",
+  "title": {
+    "hanja": "法句經",
+    "eumdok": "법구경",
+    "ko": "법구경"
+  },
+  "source": {
+    "text": "빨리 삼장 소부(Khuddaka Nikāya) 『담마빠다(Dhammapada)』 — 423게송 가운데 32게송 선별",
+    "translator": "원문은 기원전 수세기 무렵 성립한 빨리어 게송집",
+    "license": "원문: 퍼블릭 도메인 (고대 문헌)",
+    "translationLicense": "번역·음역·해설: 경전함이 새로 옮김 (AI 초안을 바탕으로 감수를 거쳐 다듬는 중)",
+    "note": "이 경은 한문이 아니라 빨리어 원문을 싣고, 음독 자리에 빨리어 한글 음역을 둔다. 게송 번호는 빨리본 기준."
+  },
+  "reviewChecklist": [
+    { "section": "dp001", "issue": "품(vagga) 이름 역어 통일 — 쌍품·불방일품·마음품 등 짧은 이름 사용", "priority": 4 }
+  ],
+  "sections": [
+    {
+      "id": "dp001",
+      "heading": "제1게 · 쌍품",
+      "hanja": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;\nmanasā ce paduṭṭhena, bhāsati vā karoti vā;\ntato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
+      "eumdok": "마노뿝방가마 담마 마노셋타 마노마야\n마나사 쩨 빠둣테나 바사띠 와 까로띠 와\n따또 낭 둑카만웨띠 짝깡와 와하또 빠당",
+      "plain": "모든 것은 마음이 앞서가고, 마음이 으뜸이며, 마음으로 지어진다. 더러운 마음으로 말하거나 행동하면, 수레바퀴가 소의 발자국을 따르듯 괴로움이 그를 따른다.",
+      "commentary": "법구경의 첫 게송. 행위의 뿌리가 마음에 있음을 밝힌다. 수레를 끄는 소의 발자국을 바퀴가 그대로 따라가듯, 마음이 더러우면 그 결과가 떨어지지 않고 따라온다.",
+      "terms": ["dhamma"]
+    },
+    {
+      "id": "dp002",
+      "heading": "제2게 · 쌍품",
+      "hanja": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;\nmanasā ce pasannena, bhāsati vā karoti vā;\ntato naṃ sukhamanveti, chāyāva anapāyinī.",
+      "eumdok": "마노뿝방가마 담마 마노셋타 마노마야\n마나사 쩨 빠산네나 바사띠 와 까로띠 와\n따또 낭 수카만웨띠 차야와 아나빠이니",
+      "plain": "모든 것은 마음이 앞서가고, 마음이 으뜸이며, 마음으로 지어진다. 맑은 마음으로 말하거나 행동하면, 그림자가 떠나지 않듯 행복이 그를 따른다.",
+      "commentary": "첫 게송과 짝을 이룬다. 쌍품은 이처럼 두 게송이 서로 맞서는 짝으로 이루어져 있어 붙은 이름이다.",
+      "terms": ["dhamma"]
+    },
+    {
+      "id": "dp003",
+      "heading": "제3게 · 쌍품",
+      "hanja": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;\nye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+      "eumdok": "악꼿치 망 아와디 망 아지니 망 아하시 메\n예 짜 땅 우빠나이한띠 웨랑 떼상 나 삼마띠",
+      "plain": "「그가 나를 욕하고, 때리고, 이기고, 빼앗았다」 이런 생각을 품고 사는 사람에게 원한은 가라앉지 않는다.",
+      "commentary": "원한이 계속되는 까닭은 지난 일 자체보다 그 일을 되새기며 붙들고 있는 마음에 있다고 본다.",
+      "terms": []
+    },
+    {
+      "id": "dp004",
+      "heading": "제4게 · 쌍품",
+      "hanja": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;\nye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+      "eumdok": "악꼿치 망 아와디 망 아지니 망 아하시 메\n예 짜 땅 누빠나이한띠 웨랑 떼수빠삼마띠",
+      "plain": "「그가 나를 욕하고, 때리고, 이기고, 빼앗았다」 이런 생각을 품지 않는 사람에게 원한은 가라앉는다.",
+      "commentary": "앞 게송의 짝. 같은 일을 겪어도 붙들지 않으면 원한이 스스로 가라앉는다.",
+      "terms": []
+    },
+    {
+      "id": "dp005",
+      "heading": "제5게 · 쌍품",
+      "hanja": "Na hi verena verāni, sammantīdha kudācanaṃ;\naverena ca sammanti, esa dhammo sanantano.",
+      "eumdok": "나 히 웨레나 웨라니 삼만띠다 꾸다짜낭\n아웨레나 짜 삼만띠 에사 담모 사난따노",
+      "plain": "이 세상에서 원한은 원한으로 결코 가라앉지 않는다. 원한을 버릴 때 비로소 가라앉는다. 이것은 변치 않는 진리다.",
+      "commentary": "법구경에서 가장 널리 알려진 게송 가운데 하나. 여기서 담마(dhamma)는 '영원한 법칙'이라는 뜻으로 쓰였다.",
+      "terms": ["dhamma"]
+    },
+    {
+      "id": "dp006",
+      "heading": "제6게 · 쌍품",
+      "hanja": "Pare ca na vijānanti, mayamettha yamāmase;\nye ca tattha vijānanti, tato sammanti medhagā.",
+      "eumdok": "빠레 짜 나 위자난띠 마야멧타 야마마세\n예 짜 땃타 위자난띠 따또 삼만띠 메다가",
+      "plain": "「우리는 언젠가 이 세상에서 사라진다」는 것을 사람들은 깨닫지 못한다. 이것을 깨닫는 이들에게는 다툼이 가라앉는다.",
+      "commentary": "다투던 비구들에게 하신 말씀으로 전한다. 삶이 유한함을 알면 다툼에 매달릴 까닭이 없어진다.",
+      "terms": []
+    },
+    {
+      "id": "dp021",
+      "heading": "제21게 · 불방일품",
+      "hanja": "Appamādo amatapadaṃ, pamādo maccuno padaṃ;\nappamattā na mīyanti, ye pamattā yathā matā.",
+      "eumdok": "압빠마도 아마따빠당 빠마도 맛쭈노 빠당\n압빠맛따 나 미얀띠 예 빠맛따 야타 마따",
+      "plain": "방일하지 않음은 죽음 없는 경지로 가는 길이요, 방일함은 죽음의 길이다. 방일하지 않는 이는 죽지 않고, 방일한 이는 이미 죽은 것과 같다.",
+      "commentary": "불방일(appamāda)은 늘 깨어 있으며 게으르지 않은 마음가짐이다. 부처님의 마지막 유훈도 '방일하지 말고 정진하라'였다.",
+      "terms": ["appamada", "nibbana"]
+    },
+    {
+      "id": "dp025",
+      "heading": "제25게 · 불방일품",
+      "hanja": "Uṭṭhānenappamādena, saṃyamena damena ca;\ndīpaṃ kayirātha medhāvī, yaṃ ogho nābhikīrati.",
+      "eumdok": "웃타넨납빠마데나 상야메나 다메나 짜\n디빵 까이라타 메다위 양 오고 나비끼라띠",
+      "plain": "부지런함과 방일하지 않음, 절제와 자기 다스림으로 지혜로운 이는 홍수도 휩쓸어 가지 못할 섬을 쌓는다.",
+      "commentary": "홍수(ogha)는 욕망과 그릇된 견해 같은 번뇌의 거센 물결을, 섬(dīpa)은 그 물결에 잠기지 않는 안전한 의지처를 비유한다.",
+      "terms": ["appamada"]
+    },
+    {
+      "id": "dp033",
+      "heading": "제33게 · 마음품",
+      "hanja": "Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ dunnivārayaṃ;\nujuṃ karoti medhāvī, usukārova tejanaṃ.",
+      "eumdok": "판다낭 짜빨랑 찟땅 두락캉 둔니와라양\n우중 까로띠 메다위 우수까로와 떼자낭",
+      "plain": "흔들리고 들뜨며, 지키기 어렵고 다스리기 어려운 마음을, 지혜로운 이는 화살 만드는 이가 화살대를 바로잡듯 곧게 한다.",
+      "commentary": "구부러진 화살대를 불에 쬐어 곧게 펴듯, 수행으로 마음을 곧게 할 수 있다는 비유다.",
+      "terms": []
+    },
+    {
+      "id": "dp043",
+      "heading": "제43게 · 마음품",
+      "hanja": "Na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā;\nsammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.",
+      "eumdok": "나 땅 마따 삐따 까이라 안녜 와삐 짜 냐따까\n삼마빠니히땅 찟땅 세이야소 낭 따또 까레",
+      "plain": "어머니도 아버지도, 다른 어떤 친척도 해 줄 수 없는 더 큰 이익을, 바르게 향한 마음은 가져다준다.",
+      "commentary": "바로 앞 게송(42)은 그릇되게 향한 마음이 원수보다 더 큰 해를 끼친다고 말한다. 두 게송이 짝을 이룬다.",
+      "terms": []
+    },
+    {
+      "id": "dp049",
+      "heading": "제49게 · 꽃품",
+      "hanja": "Yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ;\npaleti rasamādāya, evaṃ gāme munī care.",
+      "eumdok": "야타삐 바마로 뿝팡 완나간다마헤타양\n빨레띠 라사마다야 에왕 가메 무니 짜레",
+      "plain": "벌이 꽃의 빛깔과 향기를 해치지 않고 꿀만 가져가듯, 수행자는 마을에서 그렇게 다녀야 한다.",
+      "commentary": "탁발하는 수행자의 자세를 말한다. 시주하는 집에 부담을 주지 않고 필요한 만큼만 받는다.",
+      "terms": ["muni"]
+    },
+    {
+      "id": "dp050",
+      "heading": "제50게 · 꽃품",
+      "hanja": "Na paresaṃ vilomāni, na paresaṃ katākataṃ;\nattanova avekkheyya, katāni akatāni ca.",
+      "eumdok": "나 빠레상 윌로마니 나 빠레상 까따까땅\n앗따노와 아웩케이야 까따니 아까따니 짜",
+      "plain": "남의 허물이나 남이 한 일과 하지 않은 일을 살피지 말고, 자신이 한 일과 하지 않은 일을 살펴라.",
+      "commentary": "남을 탓하기보다 자기를 돌아보라는 가르침이다.",
+      "terms": []
+    },
+    {
+      "id": "dp060",
+      "heading": "제60게 · 어리석음품",
+      "hanja": "Dīghā jāgarato ratti, dīghaṃ santassa yojanaṃ;\ndīgho bālāna saṃsāro, saddhammaṃ avijānataṃ.",
+      "eumdok": "디가 자가라또 랏띠 디강 산땃사 요자낭\n디고 발라나 상사로 삿담망 아위자나땅",
+      "plain": "잠 못 이루는 이에게 밤은 길고, 지친 이에게 길은 멀다. 바른 가르침을 모르는 어리석은 이에게 윤회는 길다.",
+      "commentary": "요자나(yojana)는 옛 인도의 거리 단위. 고단한 이에게 길이 멀게 느껴지듯, 진리를 모르면 생사의 길이 끝없이 이어진다.",
+      "terms": ["samsara"]
+    },
+    {
+      "id": "dp062",
+      "heading": "제62게 · 어리석음품",
+      "hanja": "Puttā matthi dhanammatthi, iti bālo vihaññati;\nattā hi attano natthi, kuto puttā kuto dhanaṃ.",
+      "eumdok": "뿟따 맛티 다남맛티 이띠 발로 위한냐띠\n앗따 히 앗따노 낫티 꾸또 뿟따 꾸또 다낭",
+      "plain": "「내 자식이 있다, 내 재산이 있다」 하며 어리석은 이는 괴로워한다. 자기 자신도 자기 것이 아닌데, 어찌 자식이며 재산이겠는가.",
+      "commentary": "소유에 대한 집착이 괴로움의 뿌리임을 말한다. 무아의 가르침과 맞닿아 있다.",
+      "terms": []
+    },
+    {
+      "id": "dp063",
+      "heading": "제63게 · 어리석음품",
+      "hanja": "Yo bālo maññati bālyaṃ, paṇḍito vāpi tena so;\nbālo ca paṇḍitamānī, sa ve bāloti vuccati.",
+      "eumdok": "요 발로 만냐띠 발리양 빤디또 와삐 떼나 소\n발로 짜 빤디따마니 사 웨 발로띠 웃짜띠",
+      "plain": "자신이 어리석은 줄 아는 어리석은 이는 그만큼은 지혜롭다. 어리석으면서 스스로 지혜롭다고 여기는 이야말로 참으로 어리석다고 한다.",
+      "commentary": "자기의 모자람을 아는 것이 지혜의 시작이라는 뜻이다.",
+      "terms": []
+    },
+    {
+      "id": "dp080",
+      "heading": "제80게 · 현자품",
+      "hanja": "Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ;\ndāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā.",
+      "eumdok": "우다깐히 나얀띠 넷띠까 우수까라 나마얀띠 떼자낭\n다룽 나마얀띠 땃차까 앗따낭 다마얀띠 빤디따",
+      "plain": "물길 내는 이는 물을 이끌고, 화살 만드는 이는 화살대를 바로잡고, 목수는 나무를 다듬으며, 지혜로운 이는 자기 자신을 다스린다.",
+      "commentary": "장인이 저마다의 재료를 다루듯, 지혜로운 이가 다루는 재료는 자기 자신이다.",
+      "terms": []
+    },
+    {
+      "id": "dp081",
+      "heading": "제81게 · 현자품",
+      "hanja": "Selo yathā ekaghano, vātena na samīrati;\nevaṃ nindāpasaṃsāsu, na samiñjanti paṇḍitā.",
+      "eumdok": "셀로 야타 에까가노 와떼나 나 사미라띠\n에왕 닌다빠상사수 나 사민잔띠 빤디따",
+      "plain": "단단한 바위가 바람에 흔들리지 않듯, 지혜로운 이는 비난과 칭찬에 흔들리지 않는다.",
+      "commentary": "세상의 여덟 바람(이익과 손해, 명예와 불명예, 칭찬과 비난, 즐거움과 괴로움)에 흔들리지 않는 마음을 말한다.",
+      "terms": []
+    },
+    {
+      "id": "dp100",
+      "heading": "제100게 · 천품",
+      "hanja": "Sahassamapi ce vācā, anatthapadasaṃhitā;\nekaṃ atthapadaṃ seyyo, yaṃ sutvā upasammati.",
+      "eumdok": "사핫사마삐 쩨 와짜 아낫타빠다상히따\n에깡 앗타빠당 세이요 양 수뜨와 우빠삼마띠",
+      "plain": "쓸모없는 말로 엮은 천 마디보다, 듣고 마음이 고요해지는 뜻있는 한 마디가 낫다.",
+      "commentary": "천품의 게송들은 '천 가지보다 하나가 낫다'는 형식으로 참된 가치를 견준다.",
+      "terms": []
+    },
+    {
+      "id": "dp103",
+      "heading": "제103게 · 천품",
+      "hanja": "Yo sahassaṃ sahassena, saṅgāme mānuse jine;\nekañca jeyyamattānaṃ, sa ve saṅgāmajuttamo.",
+      "eumdok": "요 사핫상 사핫세나 상가메 마누세 지네\n에깐짜 제이야맛따낭 사 웨 상가마줏따모",
+      "plain": "싸움터에서 백만 명을 이기는 것보다, 자기 하나를 이기는 이가 참으로 가장 뛰어난 승리자다.",
+      "commentary": "'천의 천 배'는 백만이다. 바깥의 적보다 자기 안의 번뇌를 이기는 일이 더 어렵고 귀하다.",
+      "terms": []
+    },
+    {
+      "id": "dp121",
+      "heading": "제121게 · 악품",
+      "hanja": "Māvamaññetha pāpassa, na mantaṃ āgamissati;\nudabindunipātena, udakumbhopi pūrati;\nbālo pūrati pāpassa, thokaṃ thokampi ācinaṃ.",
+      "eumdok": "마와만녜타 빠빳사 나 만땅 아가밋사띠\n우다빈두니빠떼나 우다꿈보삐 뿌라띠\n발로 뿌라띠 빠빳사 또깡 또깜삐 아찌낭",
+      "plain": "「그 정도 악은 내게 돌아오지 않겠지」 하고 가볍게 여기지 말라. 물방울이 떨어져 물항아리를 채우듯, 어리석은 이는 조금씩 쌓아 악으로 가득 찬다.",
+      "commentary": "바로 다음 게송(122)은 같은 비유로 선도 조금씩 쌓여 가득 찬다고 말한다.",
+      "terms": []
+    },
+    {
+      "id": "dp129",
+      "heading": "제129게 · 폭력품",
+      "hanja": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno;\nattānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "eumdok": "삽베 따산띠 단닷사 삽베 바얀띠 맛쭈노\n앗따낭 우빠망 까뜨와 나 하네이야 나 가따예",
+      "plain": "모든 존재는 매를 두려워하고 죽음을 두려워한다. 자기 자신에 견주어 보아, 죽이지도 말고 죽이게 하지도 말라.",
+      "commentary": "불살생 계율의 근거를 '나를 미루어 남을 헤아림'에서 찾는다.",
+      "terms": []
+    },
+    {
+      "id": "dp160",
+      "heading": "제160게 · 자기품",
+      "hanja": "Attā hi attano nātho, ko hi nātho paro siyā;\nattanā hi sudantena, nāthaṃ labhati dullabhaṃ.",
+      "eumdok": "앗따 히 앗따노 나토 꼬 히 나토 빠로 시야\n앗따나 히 수단떼나 나탕 라바띠 둘라방",
+      "plain": "자기야말로 자기의 의지처다. 다른 누가 의지처가 되겠는가. 자기를 잘 다스릴 때 얻기 어려운 의지처를 얻는다.",
+      "commentary": "부처님의 마지막 가르침 '자기를 등불로 삼고 법을 등불로 삼으라(자등명 법등명)'와 같은 뜻이다.",
+      "terms": []
+    },
+    {
+      "id": "dp183",
+      "heading": "제183게 · 부처품",
+      "hanja": "Sabbapāpassa akaraṇaṃ, kusalassa upasampadā;\nsacittapariyodapanaṃ, etaṃ buddhāna sāsanaṃ.",
+      "eumdok": "삽바빠빳사 아까라낭 꾸살랏사 우빠삼빠다\n사찟따빠리요다빠낭 에땅 붓다나 사사낭",
+      "plain": "모든 악을 짓지 않고, 선을 갖추어 행하며, 자기 마음을 맑히는 것. 이것이 모든 부처님의 가르침이다.",
+      "commentary": "과거 일곱 부처님이 공통으로 가르쳤다는 칠불통계게(七佛通戒偈). 한역으로는 '제악막작 중선봉행 자정기의 시제불교(諸惡莫作 衆善奉行 自淨其意 是諸佛教)'로 널리 외운다.",
+      "terms": []
+    },
+    {
+      "id": "dp197",
+      "heading": "제197게 · 행복품",
+      "hanja": "Susukhaṃ vata jīvāma, verinesu averino;\nverinesu manussesu, viharāma averino.",
+      "eumdok": "수수캉 와따 지와마 웨리네수 아웨리노\n웨리네수 마눗세수 위하라마 아웨리노",
+      "plain": "원한을 품은 이들 가운데서도 원한 없이, 우리는 참으로 행복하게 산다. 원한 품은 사람들 속에서도 원한 없이 머문다.",
+      "commentary": "행복은 바깥 환경이 아니라 마음에 원한이 없음에서 온다는 뜻이다.",
+      "terms": []
+    },
+    {
+      "id": "dp204",
+      "heading": "제204게 · 행복품",
+      "hanja": "Ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ;\nvissāsaparamā ñāti, nibbānaṃ paramaṃ sukhaṃ.",
+      "eumdok": "아로갸빠라마 라바 산뚯티빠라망 다낭\n윗사사빠라마 냐띠 닙바낭 빠라망 수캉",
+      "plain": "건강은 가장 큰 이익이요, 만족은 가장 큰 재산이며, 믿음직한 벗은 가장 좋은 친척이고, 열반은 가장 큰 행복이다.",
+      "commentary": "'만족'(santuṭṭhi)은 가진 것에 넉넉해하는 마음, 곧 소욕지족(少欲知足)이다.",
+      "terms": ["nibbana"]
+    },
+    {
+      "id": "dp223",
+      "heading": "제223게 · 분노품",
+      "hanja": "Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine;\njine kadariyaṃ dānena, saccenālikavādinaṃ.",
+      "eumdok": "악꼬데나 지네 꼬당 아사둥 사두나 지네\n지네 까다리양 다네나 삿쩨날리까와디낭",
+      "plain": "성내지 않음으로 성냄을 이기고, 선으로 악을 이기라. 베풂으로 인색함을 이기고, 진실로 거짓말하는 이를 이기라.",
+      "commentary": "맞서는 힘이 아니라 반대되는 덕으로 이긴다는 가르침이다.",
+      "terms": []
+    },
+    {
+      "id": "dp227",
+      "heading": "제227게 · 분노품",
+      "hanja": "Porāṇametaṃ atula, netaṃ ajjatanāmiva;\nnindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ;\nmitabhāṇimpi nindanti, natthi loke anindito.",
+      "eumdok": "뽀라나메땅 아뚤라 네땅 앗자따나미와\n닌단띠 뚠히마시낭 닌단띠 바후바니낭\n미따바님삐 닌단띠 낫티 로께 아닌디또",
+      "plain": "아뚤라여, 이것은 예부터 그랬지 오늘만의 일이 아니다. 말없이 앉아 있어도 비난하고, 말이 많아도 비난하고, 알맞게 말해도 비난한다. 세상에 비난받지 않는 이는 없다.",
+      "commentary": "주석서에 따르면 아뚤라는 법을 들으러 다니다 가는 곳마다 불평한 재가 신자의 이름이다. 남의 평가에 매이지 말라는 뜻이다.",
+      "terms": []
+    },
+    {
+      "id": "dp276",
+      "heading": "제276게 · 길품",
+      "hanja": "Tumhehi kiccamātappaṃ, akkhātāro tathāgatā;\npaṭipannā pamokkhanti, jhāyino mārabandhanā.",
+      "eumdok": "뚬헤히 낏짜마땁빵 악카따로 따타가따\n빠띠빤나 빠목칸띠 자이노 마라반다나",
+      "plain": "애써 노력하는 것은 그대들의 몫이다. 여래는 길을 일러 줄 뿐이다. 그 길을 걸으며 선정을 닦는 이는 마라의 속박에서 벗어난다.",
+      "commentary": "부처님은 대신 깨달아 주는 이가 아니라 길을 보여 주는 이라는 뜻이다.",
+      "terms": ["tathagata", "mara"]
+    },
+    {
+      "id": "dp277",
+      "heading": "제277게 · 길품",
+      "hanja": "Sabbe saṅkhārā aniccāti, yadā paññāya passati;\natha nibbindati dukkhe, esa maggo visuddhiyā.",
+      "eumdok": "삽베 상카라 아닛짜띠 야다 빤냐야 빳사띠\n아타 닙빈다띠 둑케 에사 막고 위숫디야",
+      "plain": "「모든 지어진 것은 무상하다」고 지혜로 볼 때, 괴로움에 싫증을 내고 떠난다. 이것이 청정에 이르는 길이다.",
+      "commentary": "277~279게는 삼법인(무상·고·무아)을 차례로 노래한다.",
+      "terms": ["sankhara"]
+    },
+    {
+      "id": "dp278",
+      "heading": "제278게 · 길품",
+      "hanja": "Sabbe saṅkhārā dukkhāti, yadā paññāya passati;\natha nibbindati dukkhe, esa maggo visuddhiyā.",
+      "eumdok": "삽베 상카라 둑카띠 야다 빤냐야 빳사띠\n아타 닙빈다띠 둑케 에사 막고 위숫디야",
+      "plain": "「모든 지어진 것은 괴로움이다」라고 지혜로 볼 때, 괴로움에 싫증을 내고 떠난다. 이것이 청정에 이르는 길이다.",
+      "commentary": "변하는 것은 붙들 수 없으므로 거기에 기대는 한 만족은 오래가지 않는다는 뜻에서 '괴로움'이라 한다.",
+      "terms": ["sankhara"]
+    },
+    {
+      "id": "dp279",
+      "heading": "제279게 · 길품",
+      "hanja": "Sabbe dhammā anattāti, yadā paññāya passati;\natha nibbindati dukkhe, esa maggo visuddhiyā.",
+      "eumdok": "삽베 담마 아낫따띠 야다 빤냐야 빳사띠\n아타 닙빈다띠 둑케 에사 막고 위숫디야",
+      "plain": "「모든 법에는 자아가 없다」고 지혜로 볼 때, 괴로움에 싫증을 내고 떠난다. 이것이 청정에 이르는 길이다.",
+      "commentary": "앞의 두 게송이 '지어진 것(상카라)'이라고 한 데 비해, 여기서는 '모든 법(담마)'이라 하여 열반까지 포함한다고 해석한다.",
+      "terms": ["dhamma"]
+    },
+    {
+      "id": "dp354",
+      "heading": "제354게 · 갈애품",
+      "hanja": "Sabbadānaṃ dhammadānaṃ jināti, sabbarasaṃ dhammaraso jināti;\nsabbaratiṃ dhammarati jināti, taṇhakkhayo sabbadukkhaṃ jināti.",
+      "eumdok": "삽바다낭 담마다낭 지나띠 삽바라상 담마라소 지나띠\n삽바라띵 담마라띠 지나띠 땅학카요 삽바둑캉 지나띠",
+      "plain": "진리를 베풂은 모든 베풂보다 낫고, 진리의 맛은 모든 맛보다 낫고, 진리의 기쁨은 모든 기쁨보다 낫다. 갈애가 다하면 모든 괴로움을 이긴다.",
+      "commentary": "법보시(法布施)가 가장 큰 보시라는 가르침의 근거가 되는 게송이다.",
+      "terms": ["dhamma", "tanha"]
+    }
+  ],
+  "glossary": {
+    "dhamma": { "term": "담마", "hanja": "法", "sanskrit": "dhamma (산 dharma)", "definition": "법. 부처님의 가르침, 진리, 존재를 이루는 요소, 마음의 대상 등을 뜻한다. 문맥에 따라 뜻이 달라진다." },
+    "nibbana": { "term": "열반", "hanja": "涅槃", "sanskrit": "nibbāna (산 nirvāṇa)", "definition": "탐욕·성냄·어리석음의 불이 꺼진 상태. 괴로움이 완전히 사라진 평안." },
+    "appamada": { "term": "불방일", "hanja": "不放逸", "sanskrit": "appamāda", "definition": "방일하지 않음. 늘 깨어 있으며 선한 일에 게으르지 않은 마음가짐." },
+    "samsara": { "term": "윤회", "hanja": "輪迴", "sanskrit": "saṃsāra", "definition": "업에 따라 태어나고 죽기를 끝없이 되풀이함." },
+    "muni": { "term": "무니", "hanja": "牟尼", "sanskrit": "muni", "definition": "침묵하는 이, 성자. 고요히 수행하는 이를 일컫는다. 석가모니의 '모니'가 이 말이다." },
+    "tathagata": { "term": "여래", "hanja": "如來", "sanskrit": "tathāgata", "definition": "'그렇게 오신 분, 그렇게 가신 분'. 부처님이 자신을 가리킬 때 쓴 호칭." },
+    "mara": { "term": "마라", "hanja": "魔羅", "sanskrit": "māra", "definition": "수행을 방해하고 죽음과 번뇌로 묶는 힘을 인격화한 존재. 줄여서 '마'." },
+    "sankhara": { "term": "상카라", "hanja": "行", "sanskrit": "saṅkhāra (산 saṃskāra)", "definition": "조건에 의해 지어진 것. 또는 지어내는 의지 작용. 반야심경의 '행'과 같은 말." },
+    "tanha": { "term": "갈애", "hanja": "渴愛", "sanskrit": "taṇhā (산 tṛṣṇā)", "definition": "목마른 이가 물을 찾듯 끝없이 바라는 욕망. 괴로움이 일어나는 원인(집성제)." }
+  }
+}

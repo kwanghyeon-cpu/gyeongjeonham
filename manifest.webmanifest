@@ -1,0 +1,15 @@
+{
+  "name": "경전함 - 불경 읽기와 독송",
+  "short_name": "경전함",
+  "description": "불교 경전을 원문·음독·우리말로 읽고 듣는 광고 없는 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15171C",
+  "theme_color": "#15171C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
