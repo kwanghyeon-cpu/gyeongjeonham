@@ -1,0 +1,72 @@
+{
+ "title": "Homage to the Buddha",
+ "short": "Homage",
+ "source": {
+  "text": "The five-part incense offering and seven prostrations of the Korean Buddhist morning and evening service (traditional liturgy)",
+  "license": "Original text: traditional liturgy, public domain",
+  "translationLicense": "English translation and commentary: newly made by Sutra Box from its own Korean version (based on an AI draft, still being reviewed and refined)"
+ },
+ "sections": {
+  "y01": {
+   "heading": "Offering of the Five-Part Incense",
+   "plain": "I offer the incense of precepts, the incense of meditation, the incense of wisdom, the incense of liberation, and the incense of knowing liberation. May this incense become a cloud of light, spread through the whole Dharma realm, and be offered to the countless Buddhas, Dharma and Sangha of the ten directions.",
+   "commentary": "The five-part incense is not real incense: it likens to incense the five virtues perfected through practice (the five-part Dharma body). The service begins by offering this incense of the heart."
+  },
+  "y02": {
+   "heading": "Mantra of Offering Incense",
+   "meaning": "I offer incense as firm as a diamond (mantras are chanted for their sound, not translated)",
+   "commentary": "A mantra chanted three times while offering incense.",
+   "plain": "The mantra of offering incense"
+  },
+  "y03": {
+   "heading": "First Prostration",
+   "plain": "With utmost sincerity I give my life and bow to Śākyamuni Buddha, our original teacher, guide of the three realms and compassionate father of all beings.",
+   "commentary": "The three realms (desire, form and formlessness) are all the worlds where beings live; the four kinds of birth (from womb, egg, moisture and transformation) cover every form of life."
+  },
+  "y04": {
+   "heading": "Second Prostration",
+   "plain": "With utmost sincerity I give my life and bow to all the Buddhas who ever dwell in the ten directions and three times, in lands as vast as the sea and interlinked like Indra's net.",
+   "commentary": "Indra's net hangs in the palace of the god Indra. Just as the jewel at each knot reflects all the others, every world is linked to every other, layer upon layer."
+  },
+  "y05": {
+   "heading": "Third Prostration",
+   "plain": "With utmost sincerity I give my life and bow to all the teachings that ever abide in the boundless lands of the ten directions and three times.",
+   "commentary": "Dharma is the Buddha's teaching, the Dharma Jewel."
+  },
+  "y06": {
+   "heading": "Fourth Prostration",
+   "plain": "With utmost sincerity I give my life and bow to Mañjuśrī Bodhisattva of great wisdom, Samantabhadra Bodhisattva of great practice, Avalokiteśvara Bodhisattva of great compassion, Kṣitigarbha Bodhisattva of the great vow, and all the great bodhisattvas.",
+   "commentary": "The four bodhisattvas stand for wisdom, practice, compassion and vows. Kṣitigarbha vowed not to become a Buddha until every being, even those in the hells, has been saved."
+  },
+  "y07": {
+   "heading": "Fifth Prostration",
+   "plain": "With utmost sincerity I give my life and bow to the ten great disciples who received the Buddha's charge at Vulture Peak, the sixteen saints, the five hundred saints, the saints who practiced alone, the twelve hundred great arhats, and all the countless compassionate holy ones.",
+   "commentary": "Vulture Peak is where the Buddha taught the Lotus Sutra. This prostration honors the disciples who carried on his Dharma."
+  },
+  "y08": {
+   "heading": "Sixth Prostration",
+   "plain": "With utmost sincerity I give my life and bow to the great patriarchs who passed on the lamp of the Dharma in India, China and our own land, to the great masters of the world, and to the good teachers as countless as specks of dust.",
+   "commentary": "The original names India, China and Korea as \"the western land, the eastern land, and east of the sea.\" Passing on the lamp means handing down the light of awakening."
+  },
+  "y09": {
+   "heading": "Seventh Prostration",
+   "plain": "With utmost sincerity I give my life and bow to the whole Sangha that ever dwells in the boundless lands of the ten directions and three times.",
+   "commentary": "The Sangha is the community of practitioners, the Sangha Jewel. With this, seven bows have been made to the Three Jewels and to the bodhisattvas, saints and patriarchs."
+  },
+  "y10": {
+   "heading": "Aspiration",
+   "plain": "I only pray that the inexhaustible Three Jewels, in great kindness and compassion, accept my bows and protect me with unseen power. May I, together with all beings throughout the Dharma realm, self and others alike, attain the Buddha way at once.",
+   "commentary": "The closing aspiration of the service. It ends in the Mahāyāna spirit of wishing that all beings, not just oneself, become Buddhas together."
+  }
+ },
+ "glossary": {
+  "triratna": {
+   "term": "Three Jewels",
+   "definition": "The three treasures of Buddhism: the Buddha, the Dharma (his teaching) and the Sangha (the community of practitioners)."
+  },
+  "jisim": {
+   "term": "With utmost sincerity I bow",
+   "definition": "To take refuge and bow with one's whole heart and life. These words open each of the seven prostrations."
+  }
+ }
+}

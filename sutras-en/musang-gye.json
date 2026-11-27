@@ -1,0 +1,85 @@
+{
+ "title": "Precepts of Impermanence",
+ "short": "Impermanence",
+ "source": {
+  "text": "Precepts of Impermanence, read to the departed spirit in Korean Buddhist memorial rites (funeral and forty-nine-day ceremonies)",
+  "license": "Original text: traditional liturgy, public domain",
+  "translationLicense": "English translation and commentary: newly made by Sutra Box from its own Korean version (based on an AI draft, still being reviewed and refined)"
+ },
+ "sections": {
+  "m01": {
+   "heading": "The Meaning of the Precepts of Impermanence",
+   "plain": "The precepts of impermanence are the essential gate into nirvana and the compassionate ship that crosses the sea of suffering. So all the Buddhas entered nirvana through these precepts, and all beings cross the sea of suffering through these precepts.",
+   "commentary": "This text gives, as precepts, the teaching that nothing in the world is permanent. It is read mainly at ceremonies for the departed spirit, but it also reminds the living of impermanence."
+  },
+  "m02": {
+   "heading": "To the Departed Spirit",
+   "plain": "Departed spirit, today you have gone far beyond the sense organs and their objects, and your luminous awareness shines forth alone. How fortunate it is to receive the Buddha's supreme, pure precepts!",
+   "commentary": "With the body gone, a mind no longer bound by senses and objects remains alone; the spirit is awakened to the fact that now is a good time to receive the teaching."
+  },
+  "m03": {
+   "heading": "Even the World Is Destroyed",
+   "plain": "Departed spirit, when the fire at the end of the age blazes, the whole universe collapses together, and even Mount Sumeru and the great oceans are worn away without trace. How then could this body escape birth, old age, sickness and death, and sorrow, grief and pain?",
+   "commentary": "It awakens us to impermanence with this image: if even the universe is destroyed, how could the body be eternal?"
+  },
+  "m04": {
+   "heading": "The Body Scattering into Four Elements",
+   "plain": "Departed spirit, hair, body hair, nails and teeth, skin, flesh, sinews and bones, marrow, brain and grime all return to earth; saliva, mucus, pus and blood, fluids and foam, phlegm, tears and vital essence, urine and excrement all return to water; warmth returns to fire, and movement returns to wind. The four elements each scatter; where is the body that died today?",
+   "commentary": "Showing one by one how the four elements of earth, water, fire and wind that make up the body scatter, it helps us realize there is nothing that can be called \"my body.\""
+  },
+  "m05": {
+   "heading": "The Twelve Links of Dependent Origination",
+   "plain": "Departed spirit, the four elements are empty and false, not worth clinging to. From beginningless time until today, because of ignorance there were formations; because of formations, consciousness; because of consciousness, name and form; because of name and form, the six sense bases; because of the six sense bases, contact; because of contact, feeling; because of feeling, craving; because of craving, grasping; because of grasping, becoming; because of becoming, birth; because of birth, old age and death, sorrow, grief and pain.",
+   "commentary": "It teaches in order the twelve links by which suffering arises. The aim is to show that birth and death have continued according to causes and conditions."
+  },
+  "m06": {
+   "heading": "The Way Suffering Ceases",
+   "plain": "When ignorance ceases, formations cease; when formations cease, consciousness ceases; when consciousness ceases, name and form cease; when name and form cease, the six sense bases cease; when the six sense bases cease, contact ceases; when contact ceases, feeling ceases; when feeling ceases, craving ceases; when craving ceases, grasping ceases; when grasping ceases, becoming ceases; when becoming ceases, birth ceases; and when birth ceases, old age and death, sorrow, grief and pain cease.",
+   "commentary": "The same twelve links unwound in reverse. When the root delusion (ignorance) ceases, the whole chain of birth and death comes undone."
+  },
+  "m07": {
+   "heading": "Verses and Refuge",
+   "plain": "All dharmas from the beginning are always of themselves marked by stillness; when the Buddha's child has cultivated the Way, they will become a Buddha in an age to come. All conditioned things are impermanent; this is the law of arising and ceasing. When arising and ceasing have ceased, stillness is joy. I receive the precept of refuge in the Buddha, the precept of refuge in the Dharma, the precept of refuge in the Sangha. I take refuge in Ratnasambhava Tathāgata of the past: Worthy of Offerings, Perfectly Enlightened, Complete in Wisdom and Conduct, Well Gone, Knower of the World, Unsurpassed, Tamer of People, Teacher of Gods and Humans, Awakened One, World-Honored One.",
+   "commentary": "It recites a verse from the Skillful Means chapter of the Lotus Sutra and the impermanence verse from the Nirvana Sutra, then gives the precepts of the three refuges. The ten names at the end are the ten titles of the Buddha."
+  },
+  "m08": {
+   "heading": "Conclusion",
+   "plain": "Departed spirit, you have shed the shell of the five aggregates, your luminous awareness shines alone, and you have received the Buddha's supreme, pure precepts. How could you not rejoice, how could you not rejoice? Whether to heaven or a Buddha-land, you will go and be born as you intend; how cool, how refreshing. The meaning of the patriarch who came from the west is utterly majestic; purify your own mind and your nature is your original home. The wondrous essence is clear and still, dwelling nowhere; in mountains, rivers and all the earth, the true light shows itself.",
+   "commentary": "It ends by congratulating the spirit who has shed the body's shell and received the precepts. The final verse sings that the original ground of mind is the home to return to."
+  }
+ },
+ "glossary": {
+  "anicca": {
+   "term": "Impermanence",
+   "definition": "Everything conditioned is always changing and nothing stays forever. One of the three fundamental truths of Buddhism (the three marks)."
+  },
+  "nirvana": {
+   "term": "Nirvana",
+   "definition": "The stillness in which the fires of greed, anger and delusion have gone out; the complete ending of suffering."
+  },
+  "kalpa": {
+   "term": "Fire at the end of the age",
+   "definition": "The great fire said to arise when a world is destroyed. A kalpa is an immeasurably long span of time."
+  },
+  "four-elements": {
+   "term": "Four elements",
+   "definition": "The four elements that make up the body and matter: earth (solidity), water (moisture), fire (warmth) and wind (movement)."
+  },
+  "pratitya": {
+   "term": "Twelve links of dependent origination",
+   "definition": "The twelve-step chain of cause and effect, from ignorance to old age and death, by which suffering arises and ceases."
+  },
+  "avidya": {
+   "term": "Ignorance",
+   "definition": "The root delusion of not knowing the true nature of things. The first of the twelve links."
+  },
+  "three-jewels": {
+   "term": "Three refuges",
+   "definition": "Taking refuge in the three jewels: the Buddha, the Dharma (teaching) and the Sangha (community of practitioners)."
+  },
+  "skandha": {
+   "term": "Five aggregates",
+   "definition": "The five heaps that make up body and mind: form, feeling, perception, mental formations and consciousness."
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "title": "Heart Sutra",
+ "source": {
+  "text": "Xuanzang, trans., Heart of Prajñāpāramitā Sutra (Taishō T251)",
+  "license": "Original text: public domain",
+  "translationLicense": "English translation and commentary: newly made by Sutra Box from its own Korean version (based on an AI draft, still being reviewed and refined)"
+ },
+ "sections": {
+  "s01": {
+   "plain": "When Avalokiteśvara Bodhisattva was practicing the profound Prajñāpāramitā, he clearly saw that the five aggregates are all empty, and passed beyond all suffering and distress.",
+   "commentary": "The whole sutra is condensed into this opening line. Avalokiteśvara (Xuanzang's name for Gwanseeum, the Bodhisattva of Compassion), deep in the practice of wisdom, saw through to the fact that none of the five elements making up body and mind is a fixed, self-standing thing, and that this insight is itself the way out of suffering. The rest of the sutra explains this insight to Śāriputra."
+  },
+  "s02": {
+   "plain": "Śāriputra, form is not different from emptiness, and emptiness is not different from form. Form is exactly emptiness; emptiness is exactly form. So too are feeling, perception, mental formations and consciousness.",
+   "commentary": "This is the central statement of the Heart Sutra. Emptiness here does not mean \"nothing at all.\" It means that everything arises in dependence on conditions, so nothing stands on its own as a separate entity. There is no emptiness apart from the forms in front of us, and no form apart from emptiness. The same holds for feeling, perception, mental formations and consciousness."
+  },
+  "s03": {
+   "plain": "Śāriputra, all dharmas are marked by emptiness: they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease.",
+   "commentary": "The nature of emptiness is shown through three pairs of negations (the \"six negations\"). Arising and ceasing, defiled and pure, increasing and decreasing are all relative distinctions we make once we treat things as solid entities. If there are no such entities, these distinctions do not ultimately hold."
+  },
+  "s04": {
+   "plain": "Therefore, in emptiness there is no form, no feeling, perception, mental formations or consciousness; no eye, ear, nose, tongue, body or mind; no sight, sound, smell, taste, touch or object of mind; no realm of the eye, and so on up to no realm of mind-consciousness.",
+   "commentary": "The sutra negates, one after another, the three frameworks Buddhism used to analyze existence: the five aggregates, the twelve sense bases and the eighteen elements. These classifications are useful tools, but the items in them do not exist as real entities. \"And so on up to\" marks the middle items as omitted; it refers to all eighteen elements."
+  },
+  "s05": {
+   "plain": "There is no ignorance and no end of ignorance, and so on up to no old age and death and no end of old age and death.",
+   "commentary": "This negates the twelve links of dependent origination, which explain how suffering arises. Neither the forward flow from ignorance to old age and death, nor the reverse flow in which each link ceases, is something to grasp as real. It does not tell us to throw the teaching away; it tells us not to cling even to the teaching."
+  },
+  "s06": {
+   "plain": "There is no suffering, no cause of suffering, no cessation and no path. There is no wisdom and no attainment, because there is nothing to attain.",
+   "commentary": "Even the Four Noble Truths, the Buddha's first teaching, and the wisdom and awakening gained through practice are negated. Awakening is not a matter of getting hold of something new. The last phrase, \"because there is nothing to attain,\" can be read as the reason for this sentence or for the next one (\"the bodhisattva…\"), and interpretations differ."
+  },
+  "s07": {
+   "plain": "The bodhisattva relies on Prajñāpāramitā, and so the mind has no hindrance. With no hindrance there is no fear. Far beyond upside-down, dreamlike thinking, he reaches nirvana at last.",
+   "commentary": "This shows what the negations lead to in real life. Knowing there is nothing solid to hold on to, the mind gets caught on nothing; with nothing to lose, fear falls away too. \"Upside-down, dreamlike thinking\" means the mistaken view that takes the impermanent as eternal and what has no self as a self."
+  },
+  "s08": {
+   "plain": "All Buddhas of the past, present and future rely on Prajñāpāramitā, and so attain supreme, perfect awakening (anuttarā samyaksaṃbodhi).",
+   "commentary": "Not only bodhisattvas but every Buddha's awakening comes from this wisdom. That is why Prajñāpāramitā is sometimes called \"the mother of all Buddhas.\""
+  },
+  "s09": {
+   "plain": "Know, then, that Prajñāpāramitā is the great divine mantra, the great bright mantra, the supreme mantra, the unequalled mantra. It can remove all suffering; it is true, not false.",
+   "commentary": "The wisdom taught so far is praised in four ways and leads into the mantra. The teaching of wisdom is not only something to understand; held in the heart, it becomes a living power."
+  },
+  "s10": {
+   "plain": "So the mantra of Prajñāpāramitā is spoken. It goes like this:",
+   "commentary": "A bridging line that closes the main text and leads into the mantra."
+  },
+  "s11": {
+   "meaning": "Gone, gone, gone to the other shore, gone completely to the other shore, awakening, svāhā (may it be blessed)",
+   "commentary": "Xuanzang followed the principle of not translating words of mysterious power, and transcribed only the sound. In Korea it is customary to chant it three times with the traditional pronunciation. Its meaning is read as a cry: let us cross from this shore of suffering to the far shore of awakening.",
+   "plain": "Gate gate pāragate pārasaṃgate bodhi svāhā (Gone, gone, gone beyond, gone altogether beyond: awakening, so be it!)"
+  }
+ },
+ "glossary": {
+  "prajnaparamita": {
+   "term": "Prajñāpāramitā",
+   "definition": "The perfection of wisdom. Wisdom that sees through to the true nature of things and carries us from this shore of suffering to the far shore of awakening."
+  },
+  "avalokitesvara": {
+   "term": "Avalokiteśvara",
+   "definition": "Gwanseeum Bodhisattva. Xuanzang's rendering means \"the one who observes freely\"; the bodhisattva embodies compassion and wisdom."
+  },
+  "sariputra": {
+   "term": "Śāriputra",
+   "definition": "Called the wisest of the Buddha's disciples. He is the listener in this sutra."
+  },
+  "skandha": {
+   "term": "Five aggregates",
+   "definition": "The five heaps that make up body and mind: form (matter), feeling, perception, mental formations (volition) and consciousness."
+  },
+  "sunyata": {
+   "term": "Emptiness",
+   "definition": "Because everything arises in dependence on conditions, nothing has an independent, fixed self. It is not the same as \"nothing at all.\""
+  },
+  "dharma": {
+   "term": "Dharma",
+   "definition": "Depending on context: the Buddha's teaching, the elements that make up existence, or objects of the mind. \"All dharmas\" in this sutra means everything that exists."
+  },
+  "ayatana": {
+   "term": "Twelve sense bases",
+   "definition": "The six sense organs (eye, ear, nose, tongue, body, mind) and their six objects (sight, sound, smell, taste, touch, mental objects)."
+  },
+  "dhatu": {
+   "term": "Eighteen elements",
+   "definition": "The twelve sense bases plus the six kinds of consciousness (eye-consciousness through mind-consciousness)."
+  },
+  "avidya": {
+   "term": "Ignorance",
+   "definition": "The root delusion of not knowing the true nature of things. The first of the twelve links of dependent origination."
+  },
+  "pratitya": {
+   "term": "Twelve links of dependent origination",
+   "definition": "The twelve-step chain of cause and effect, from ignorance to old age and death, by which suffering arises and ceases."
+  },
+  "four-truths": {
+   "term": "Four Noble Truths",
+   "definition": "Suffering, the cause of suffering, the cessation of suffering, and the path leading to cessation."
+  },
+  "bodhisattva": {
+   "term": "Bodhisattva",
+   "definition": "A practitioner who seeks awakening while guiding all beings along with them."
+  },
+  "viparyasa": {
+   "term": "Upside-down thinking",
+   "definition": "Inverted, dreamlike views: taking the impermanent as eternal, suffering as pleasure, and what has no self as a self."
+  },
+  "nirvana": {
+   "term": "Nirvana",
+   "definition": "The peace in which the fires of greed, anger and delusion have gone out. The complete ending of suffering."
+  },
+  "anuttara": {
+   "term": "Anuttarā samyaksaṃbodhi",
+   "definition": "Supreme, perfect awakening: the awakening of a Buddha."
+  },
+  "mantra": {
+   "term": "Mantra",
+   "definition": "Sacred words that gather the mind and help one hold the teaching. Traditionally chanted for their sound rather than translated."
+  }
+ }
+}

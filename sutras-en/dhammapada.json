@@ -1,0 +1,208 @@
+{
+ "title": "Dhammapada",
+ "source": {
+  "text": "Dhammapada, Khuddaka Nikāya of the Pāli Canon: 32 of its 423 verses",
+  "license": "Original text: public domain (ancient text)",
+  "translationLicense": "English translation and commentary: newly made by Sutra Box from its own Korean version (based on an AI draft, still being reviewed and refined)"
+ },
+ "sections": {
+  "dp001": {
+   "heading": "Verse 1 · Pairs",
+   "plain": "Mind goes before all things; mind is chief, and all is made by mind. If one speaks or acts with a corrupted mind, suffering follows, as the wheel follows the ox's footprint.",
+   "commentary": "The first verse of the Dhammapada shows that the root of action lies in the mind. Just as the cart wheel follows the footprint of the ox that pulls it, the results of a corrupted mind follow without fail."
+  },
+  "dp002": {
+   "heading": "Verse 2 · Pairs",
+   "plain": "Mind goes before all things; mind is chief, and all is made by mind. If one speaks or acts with a clear mind, happiness follows, like a shadow that never leaves.",
+   "commentary": "This pairs with the first verse. The chapter is called \"Pairs\" because it is made up of verses set against each other like this."
+  },
+  "dp003": {
+   "heading": "Verse 3 · Pairs",
+   "plain": "\"He abused me, struck me, defeated me, robbed me\": for those who harbor such thoughts, hatred is never stilled.",
+   "commentary": "Hatred persists not so much because of what happened as because of the mind that keeps going over it and holding on."
+  },
+  "dp004": {
+   "heading": "Verse 4 · Pairs",
+   "plain": "\"He abused me, struck me, defeated me, robbed me\": for those who do not harbor such thoughts, hatred is stilled.",
+   "commentary": "The pair to the previous verse. Even after the same experience, if one does not hold on, hatred settles by itself."
+  },
+  "dp005": {
+   "heading": "Verse 5 · Pairs",
+   "plain": "Hatred is never stilled by hatred in this world. Only by letting go of hatred is it stilled. This is an eternal law.",
+   "commentary": "One of the best-known verses of the Dhammapada. Here dhamma is used in the sense of \"eternal law.\""
+  },
+  "dp006": {
+   "heading": "Verse 6 · Pairs",
+   "plain": "People do not realize that \"we shall one day pass from this world.\" For those who realize it, quarrels are stilled.",
+   "commentary": "Said to have been spoken to quarreling monks. Knowing that life is limited, there is no reason to cling to disputes."
+  },
+  "dp021": {
+   "heading": "Verse 21 · Heedfulness",
+   "plain": "Heedfulness is the path to the deathless; heedlessness is the path to death. The heedful do not die; the heedless are as if already dead.",
+   "commentary": "Heedfulness (appamāda) is the attitude of staying awake and never slack. The Buddha's last words were also \"Strive on with heedfulness.\""
+  },
+  "dp025": {
+   "heading": "Verse 25 · Heedfulness",
+   "plain": "By effort and heedfulness, by restraint and self-mastery, the wise make an island that no flood can sweep away.",
+   "commentary": "The flood (ogha) stands for the raging current of afflictions such as desire and wrong views; the island (dīpa) for a safe refuge that the current cannot submerge."
+  },
+  "dp033": {
+   "heading": "Verse 33 · The Mind",
+   "plain": "The wavering, restless mind, hard to guard and hard to restrain, the wise make straight, as a fletcher straightens an arrow shaft.",
+   "commentary": "Just as a bent arrow shaft is warmed over fire and straightened, practice can make the mind straight."
+  },
+  "dp043": {
+   "heading": "Verse 43 · The Mind",
+   "plain": "What neither mother nor father nor any other relative can do, a rightly directed mind does, bringing greater good.",
+   "commentary": "The previous verse (42) says a wrongly directed mind does more harm than an enemy. The two verses form a pair."
+  },
+  "dp049": {
+   "heading": "Verse 49 · Flowers",
+   "plain": "As a bee takes nectar without harming the flower's color or scent, so should the sage move through the village.",
+   "commentary": "This describes how a monastic should go on alms round: taking only what is needed, without burdening the households that give."
+  },
+  "dp050": {
+   "heading": "Verse 50 · Flowers",
+   "plain": "Look not at the faults of others, nor at what they have done or left undone; look at what you yourself have done and left undone.",
+   "commentary": "A teaching to look at oneself rather than blaming others."
+  },
+  "dp060": {
+   "heading": "Verse 60 · The Fool",
+   "plain": "Long is the night for the sleepless, long the road for the weary; long is saṃsāra for fools who do not know the true Dharma.",
+   "commentary": "A yojana was an ancient Indian measure of distance. As the road seems long to the weary, so for those who do not know the truth, the path of birth and death goes on without end."
+  },
+  "dp062": {
+   "heading": "Verse 62 · The Fool",
+   "plain": "\"I have sons, I have wealth\": so the fool torments himself. When even the self is not one's own, how can sons or wealth be?",
+   "commentary": "Attachment to possessions is the root of suffering. This connects with the teaching of non-self."
+  },
+  "dp063": {
+   "heading": "Verse 63 · The Fool",
+   "plain": "A fool who knows his foolishness is wise to that extent. But a fool who thinks himself wise is called a fool indeed.",
+   "commentary": "Knowing one's own shortcomings is the beginning of wisdom."
+  },
+  "dp080": {
+   "heading": "Verse 80 · The Wise",
+   "plain": "Irrigators guide the water, fletchers straighten arrow shafts, carpenters shape the wood, and the wise master themselves.",
+   "commentary": "As each craftsman works his own material, the material the wise work on is themselves."
+  },
+  "dp081": {
+   "heading": "Verse 81 · The Wise",
+   "plain": "As a solid rock is not shaken by the wind, so the wise are not moved by blame or praise.",
+   "commentary": "This speaks of a mind unmoved by the eight worldly winds: gain and loss, fame and disrepute, praise and blame, pleasure and pain."
+  },
+  "dp100": {
+   "heading": "Verse 100 · The Thousands",
+   "plain": "Better than a thousand words strung together without meaning is one meaningful word that brings peace to the one who hears it.",
+   "commentary": "The verses of this chapter weigh true value in the form \"one is better than a thousand.\""
+  },
+  "dp103": {
+   "heading": "Verse 103 · The Thousands",
+   "plain": "Though one conquer a million men in battle, one who conquers just oneself is truly the greatest victor.",
+   "commentary": "\"A thousand times a thousand\" is a million. Overcoming the afflictions within is harder and more precious than defeating enemies outside."
+  },
+  "dp121": {
+   "heading": "Verse 121 · Evil",
+   "plain": "Do not think lightly of evil, saying \"it will not come back to me.\" As a water jar is filled drop by drop, the fool, gathering little by little, is filled with evil.",
+   "commentary": "The very next verse (122) uses the same image to say that good, too, fills up little by little."
+  },
+  "dp129": {
+   "heading": "Verse 129 · Violence",
+   "plain": "All tremble at the rod; all fear death. Comparing others with oneself, one should neither kill nor cause others to kill.",
+   "commentary": "The basis of the precept against killing is found in putting oneself in others' place."
+  },
+  "dp160": {
+   "heading": "Verse 160 · The Self",
+   "plain": "One is indeed one's own refuge; who else could be a refuge? With oneself well tamed, one gains a refuge hard to find.",
+   "commentary": "This shares the meaning of the Buddha's last teaching: \"Be a lamp unto yourselves; make the Dharma your lamp.\""
+  },
+  "dp183": {
+   "heading": "Verse 183 · The Buddha",
+   "plain": "Not to do any evil, to cultivate the good, to purify one's own mind: this is the teaching of all Buddhas.",
+   "commentary": "This is the verse said to be taught by all seven Buddhas of the past. It is widely recited in its Chinese form, \"Do no evil, practice all good, purify your own mind: this is the teaching of all Buddhas.\""
+  },
+  "dp197": {
+   "heading": "Verse 197 · Happiness",
+   "plain": "Happily indeed we live, free of hatred among the hateful; among hateful people we dwell free of hatred.",
+   "commentary": "Happiness comes not from outer circumstances but from a mind free of hatred."
+  },
+  "dp204": {
+   "heading": "Verse 204 · Happiness",
+   "plain": "Health is the greatest gain, contentment the greatest wealth, a trusted friend the best of kin, nirvana the highest happiness.",
+   "commentary": "Contentment (santuṭṭhi) is a mind satisfied with what it has: having few desires and knowing when enough is enough."
+  },
+  "dp223": {
+   "heading": "Verse 223 · Anger",
+   "plain": "Conquer anger with non-anger, conquer evil with good. Conquer stinginess with giving, and the liar with truth.",
+   "commentary": "The teaching is to overcome not by opposing force but by the opposite virtue."
+  },
+  "dp227": {
+   "heading": "Verse 227 · Anger",
+   "plain": "This is an old saying, Atula, not just of today: they blame the one who sits silent, they blame the one who speaks much, they even blame the one who speaks in moderation. There is no one in the world who is not blamed.",
+   "commentary": "According to the commentary, Atula was a lay follower who went to hear the Dharma and complained everywhere he went. The point is not to be bound by others' opinions."
+  },
+  "dp276": {
+   "heading": "Verse 276 · The Path",
+   "plain": "The effort must be made by you; the Tathāgatas only point the way. Those who walk it and meditate are freed from Māra's bonds.",
+   "commentary": "The Buddha is not one who awakens on our behalf, but one who shows the path."
+  },
+  "dp277": {
+   "heading": "Verse 277 · The Path",
+   "plain": "\"All conditioned things are impermanent\": when one sees this with wisdom, one grows weary of suffering and turns away. This is the path to purity.",
+   "commentary": "Verses 277 to 279 sing in turn of the three marks of existence: impermanence, suffering and non-self."
+  },
+  "dp278": {
+   "heading": "Verse 278 · The Path",
+   "plain": "\"All conditioned things are suffering\": when one sees this with wisdom, one grows weary of suffering and turns away. This is the path to purity.",
+   "commentary": "What changes cannot be held, so as long as we lean on it, satisfaction does not last: in this sense it is called suffering."
+  },
+  "dp279": {
+   "heading": "Verse 279 · The Path",
+   "plain": "\"All dharmas are without self\": when one sees this with wisdom, one grows weary of suffering and turns away. This is the path to purity.",
+   "commentary": "Where the previous two verses say \"conditioned things\" (saṅkhāra), this one says \"all dharmas\" (dhamma), which is interpreted as including even nirvana."
+  },
+  "dp354": {
+   "heading": "Verse 354 · Craving",
+   "plain": "The gift of truth surpasses all gifts; the taste of truth surpasses all tastes; the delight in truth surpasses all delights. The end of craving overcomes all suffering.",
+   "commentary": "This verse grounds the teaching that the gift of Dharma is the greatest gift."
+  }
+ },
+ "glossary": {
+  "dhamma": {
+   "term": "Dhamma",
+   "definition": "Dharma: the Buddha's teaching, truth, the elements of existence, or objects of the mind. The meaning depends on context."
+  },
+  "nibbana": {
+   "term": "Nibbāna",
+   "definition": "Nirvana: the state in which the fires of greed, anger and delusion have gone out; peace in which suffering has completely ended."
+  },
+  "appamada": {
+   "term": "Heedfulness",
+   "definition": "Appamāda: the attitude of staying awake and never being slack in doing good."
+  },
+  "samsara": {
+   "term": "Saṃsāra",
+   "definition": "The endless round of being born and dying according to one's karma."
+  },
+  "muni": {
+   "term": "Muni",
+   "definition": "A silent one, a sage: one who practices in stillness. The \"muni\" in Śākyamuni."
+  },
+  "tathagata": {
+   "term": "Tathāgata",
+   "definition": "\"Thus come, thus gone\": the title the Buddha used for himself."
+  },
+  "mara": {
+   "term": "Māra",
+   "definition": "The personification of the force that hinders practice and binds beings with death and affliction."
+  },
+  "sankhara": {
+   "term": "Saṅkhāra",
+   "definition": "What is conditioned or formed; also the volition that forms things. The same word as \"mental formations\" in the Heart Sutra."
+  },
+  "tanha": {
+   "term": "Craving",
+   "definition": "Taṇhā: endless desire, like a thirsty person seeking water. The cause from which suffering arises (the second noble truth)."
+  }
+ }
+}

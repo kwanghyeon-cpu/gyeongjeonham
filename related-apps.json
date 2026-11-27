@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updated": "2026-11-27",
+  "about": "KH Company 앱끼리 서로 소개하기 위한 목록. 앱과 웹은 이 파일을 읽어 '함께 쓰면 좋은 앱'을 보여 준다. 관리: kwanghyeon-cpu.github.io 저장소.",
+  "developerPage": "https://play.google.com/store/apps/dev?id=5023880941396464177",
+  "portfolio": "https://kwanghyeon-cpu.github.io/",
+  "groups": [
+    { "id": "racing", "title": "레이싱 게임", "apps": ["lanedash", "yorijorirun"] },
+    { "id": "ip", "title": "IP 비즈니스", "apps": ["ipscout", "ipspark"] },
+    { "id": "temple", "title": "불교·사찰", "apps": ["sutra", "jeolttara"] },
+    { "id": "family", "title": "가족의 기록", "apps": ["naite", "jaramalbum", "onepagelife"] },
+    { "id": "birthday", "title": "날짜·운세", "apps": ["birthdaytwin", "trifortune"] },
+    { "id": "walk", "title": "걷기·지도", "apps": ["footprintmap", "jeolttara"] },
+    { "id": "fun", "title": "직장인·관계 유머", "apps": ["hanmadi", "survivalkit", "uselessdamoa", "miyong"] },
+    { "id": "journal", "title": "기록 습관", "apps": ["fivelines", "onepagelife"] }
+  ],
+  "apps": {
+    "lanedash": { "name": "Lane Dash", "tagline": "레트로 픽셀아트 도시를 달리며 전 세계 랭킹에 도전해요.", "package": "com.khcompany.lanedash", "public": true, "web": "https://kwanghyeon-cpu.github.io/LaneDash/web/", "icon": "https://kwanghyeon-cpu.github.io/icons/lanedash.png" },
+    "yorijorirun": { "name": "요리조리 런", "tagline": "도시 산책로를 좌우로 요리조리 달리며 자전거와 강아지를 피해요.", "package": "com.khcompany.yorijorirun", "public": false, "web": "https://kwanghyeon-cpu.github.io/YorijoriRun/web/", "icon": "https://kwanghyeon-cpu.github.io/icons/yorijorirun.png" },
+    "ipscout": { "name": "IP Scout", "tagline": "급상승 원작 IP와 콜라보·굿즈·공시 딜을 매일 아침 한눈에 정리해 줘요.", "package": "com.khcompany.ipscout", "public": false, "web": "https://adaptable-clv3.onrender.com/", "icon": "https://kwanghyeon-cpu.github.io/icons/ipscout.png" },
+    "ipspark": { "name": "IP Spark", "tagline": "IP Scout가 찾은 IP로 부가사업 아이디어 카드와 기획서를 만들어 줘요.", "package": null, "public": false, "web": null, "icon": null },
+    "sutra": { "name": "경전함", "tagline": "반야심경·천수경·금강경 등 25가지 경전을 읽고, 듣고, 사경해요.", "package": "com.khcompany.sutra", "public": true, "web": "https://kwanghyeon-cpu.github.io/gyeongjeonham/", "icon": "https://kwanghyeon-cpu.github.io/icons/sutra.png" },
+    "jeolttara": { "name": "절따라", "tagline": "전국 사찰 1,004곳과 절로 이어지는 걷기 코스를 사진·소개 글과 함께 보여 줘요.", "package": "com.khcompany.templetrail", "public": false, "web": "https://kwanghyeon-cpu.github.io/jeolttara-web/", "icon": "https://kwanghyeon-cpu.github.io/icons/jeolttara.png" },
+    "naite": { "name": "나이테", "tagline": "생신마다 가족이 함께 한 편씩, 사진·영상편지·부모님 이야기로 생신 영상을 만들어요.", "package": "com.khcompany.naite", "public": false, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/naite.png" },
+    "jaramalbum": { "name": "자람 앨범", "tagline": "갤러리 사진을 생후 개월별로 정리해 아기 성장 앨범으로 만들어 줘요.", "package": "com.khcompany.jaramalbum", "public": false, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/jaramalbum.png" },
+    "onepagelife": { "name": "인생 한 장", "tagline": "한 칸에 한 주씩, 질문에 답하며 내 인생을 한 장에 모아 봐요.", "package": "com.khcompany.onepagelife", "public": false, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/onepagelife.png" },
+    "birthdaytwin": { "name": "날짜도감", "tagline": "같은 날 태어난 사람과 그날 일어난 일을 도감처럼 모아 보여 줘요.", "package": "com.khcompany.birthdaytwin", "public": true, "web": "https://kwanghyeon-cpu.github.io/datebook/", "icon": "https://kwanghyeon-cpu.github.io/icons/birthdaytwin.png" },
+    "trifortune": { "name": "교집합 운세", "tagline": "점성술·자미두수·사주가 공통으로 가리키는 이야기만 골라 풀이해 줘요.", "package": "com.khcompany.trifortune", "public": true, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/trifortune.png" },
+    "footprintmap": { "name": "발자국지도", "tagline": "걸은 곳만 안개가 걷히는 지도로 우리 동네 탐험률을 보여 줘요.", "package": "com.khcompany.fogmap", "public": true, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/footprintmap.png" },
+    "hanmadi": { "name": "오늘의 한마디", "tagline": "퇴근·월급날 D-day와 직장인 응원 한마디를 홈 화면 위젯으로 보여 줘요.", "package": "com.khcompany.hanmadi", "public": true, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/hanmadi.png" },
+    "survivalkit": { "name": "생존키트", "tagline": "아내·팀장님·애인에게 쓸 그럴듯한 변명과 핑계를 AI가 써 주고 생존 확률까지 계산해 줘요.", "package": "com.khcompany.survivalkit", "public": true, "web": "https://survivalkit-f00fa.web.app/", "icon": "https://kwanghyeon-cpu.github.io/icons/survivalkit.png" },
+    "uselessdamoa": { "name": "쓸모없음 다모아", "tagline": "돌 키우기처럼 쓸모없지만 자꾸 열게 되는 기능 10가지를 모았어요.", "package": "com.khcompany.uselessdamoa", "public": true, "web": "https://kwanghyeon-cpu.github.io/uselessdamoa/", "icon": "https://kwanghyeon-cpu.github.io/icons/uselessdamoa.png" },
+    "miyong": { "name": "그만 삐지고 화해하기", "tagline": "싸우고 서먹할 때 사과 문구부터 화해 미션까지 함께 챙겨 줘요.", "package": "com.khcompany.miyong", "public": true, "web": null, "icon": "https://kwanghyeon-cpu.github.io/miyong-icon.png" },
+    "fivelines": { "name": "30자기록", "tagline": "하루 30자와 사진 한 장으로 인증샷 일기를 남기고, 사진을 AI 스타일로 바꿔 봐요.", "package": "com.khcompany.fivelines", "public": false, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/fivelines.png" },
+    "bookfinder": { "name": "책길", "tagline": "읽고 싶은 책의 도서관 대출 가능 여부와 서점 가격을 한 번에 알려 줘요.", "package": "com.khcompany.bookfinder", "public": true, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/bookfinder.png" },
+    "geonneo": { "name": "건너건너", "tagline": "연락처만 허용하면 누가 누구와 아는 사이인지 인맥 지도로 그려 줘요.", "package": "com.khcompany.geonneo", "public": false, "web": null, "icon": "https://kwanghyeon-cpu.github.io/icons/geonneo.png" }
+  },
+  "rules": {
+    "show": "같은 묶음 안의 다른 앱만 보여 준다(자기 자신 제외). 묶음이 없는 앱은 portfolio 링크 하나만 보여 준다.",
+    "link": "public이 true면 Play 스토어(market://details?id=package, 안 되면 https://play.google.com/store/apps/details?id=package). 설치돼 있으면 그 앱을 바로 연다. public이 false면 web이 있을 때만 web으로, 둘 다 없으면 카드에서 뺀다.",
+    "cache": "하루에 한 번만 다시 받고, 실패하면 앱에 넣어 둔 기본 사본을 쓴다."
+  }
+}
